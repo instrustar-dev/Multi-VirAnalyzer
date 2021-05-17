@@ -1,2 +1,2 @@
 # Multi-VirAnalyzer
-Multi-VirAnalyzer publish
+More details see  https://github.com/instrustar-dev/Multi-VirAnalyzer/releases
